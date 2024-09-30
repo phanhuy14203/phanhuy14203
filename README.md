@@ -4,7 +4,7 @@
 
 ## 📚 Knowledge:
 - **System:** Linux, Docker, Nginx, Openstack
-- **DevOps:** Kubernetes, AWS
+- **DevOps:** Kubernetes, AWS, Terraform, GitLab, Jenkins
 - **Others:** Git, IoT, Mobile, Database
 
 ## 🎯 Career Objective: Working in System and DevOps
