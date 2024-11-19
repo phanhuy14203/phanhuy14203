@@ -3,7 +3,7 @@
 ## 🏫 University: University of Information Technology (UIT)
 
 ## 📚 Knowledge:
-- **System:** Linux, Docker, Nginx, Openstack, Hadoop, Spark
+- **System:** Linux, Docker, Nginx, Openstack, Hadoop, Spark, Kafka
 - **DevOps:** Kubernetes, AWS, Terraform, GitLab, Jenkins, Grafana, Prometheus, ELK Stack
 - **Others:** Git, IoT, Mobile, Database
 
