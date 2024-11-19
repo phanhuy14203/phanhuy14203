@@ -3,8 +3,8 @@
 ## 🏫 University: University of Information Technology (UIT)
 
 ## 📚 Knowledge:
-- **System:** Linux, Docker, Nginx, Openstack
-- **DevOps:** Kubernetes, AWS, Terraform, GitLab, Jenkins
+- **System:** Linux, Docker, Nginx, Openstack, Hadoop, Spark
+- **DevOps:** Kubernetes, AWS, Terraform, GitLab, Jenkins, Grafana, Prometheus, ELK Stack
 - **Others:** Git, IoT, Mobile, Database
 
 ## 🎯 Career Objective: Working in System and DevOps
